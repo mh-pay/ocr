@@ -23,7 +23,7 @@ Telegram bot to extract text from image
 
 1. Clone the repo
    ```markdown
-   git clone https://github.com/StarkBotsIndustries/OCRBot
+   git clone https://github.com/mh-pay/ocr
    ```
 
 2. Now head to [this page](https://github.com/UB-Mannheim/tesseract/wiki) and install Tesseract installer. 

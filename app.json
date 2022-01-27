@@ -23,6 +23,14 @@
       "size": "free"
     }
   },
+  "addons": [
+      {
+         "options": {
+            "version": "12"
+         },
+         "plan": "heroku-postgresql"
+      }
+   ],
   "repository": "https://github.com/mh-pay/ocrbot",
   "env": {
     "ENVIRONMENT": {

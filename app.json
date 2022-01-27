@@ -23,7 +23,7 @@
       "size": "free"
     }
   },
-  "repository": "https://github.com/StarkBotsIndustries/OCRBot",
+  "repository": "https://github.com/mh-pay/ocrbot",
   "env": {
     "ENVIRONMENT": {
       "description": "Don't change ANYTHING.",
@@ -45,6 +45,11 @@
       "required": true,
       "value": ""
     },
+    "MUST_JOIN": {
+      "description": "Add username/id of a channel/group",
+      "required": false,
+      "value": ""
+    }, 
     "TESSDATA_PREFIX": {
       "description": "Don't touch/edit it, else the bot will crash. Let it as it is",
       "required": true,
